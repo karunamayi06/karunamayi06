@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karunamayi06
-- 👀 I’m interested in arduino ai 
+- 👀 I’m interested in arduino and ai 
 - 🌱 I’m currently learning arduino
 - 💞️ I’m looking to learn ai
 - 📫 How to reach me ...
