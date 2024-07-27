@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @karunamayi06
-- 👀 I’m interested in arduino and ai 
-- 🌱 I’m currently learning arduino
-- 💞️ I’m looking to learn ai
-- 📫 How to reach me ...
+- I’m interested in Data Science and machine learning
+- I work on Data visulalization too
+- I have worked with Data visulalization tools like POWER BI and Tableau
+- I have worked with many Machine Learning models from kaggle
+- 
 
-<!---
-karunamayi06/karunamayi06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
